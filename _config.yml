@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qian Chen"
   avatar           : "images/profile.png"
-  bio              : "PhD. in computer science"
+  bio              : "Federated Learning"
   location         : "China"
   employer         : "Xidian University"
   pubmed           : 

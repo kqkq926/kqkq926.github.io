@@ -18,41 +18,66 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Dr. Qian Chen received the B.S. degree in mathematics from Xi'an Jiaotong University, China, in 2016, and the Ph.D. degree in Cyberspace Security from Xidian University, China, in 2024. From 2022 to 2024, he was a Visiting Research Fellow with iTrust, Singapore University of Technology and Design, Singapore. His research interests are in the areas of federated learning, applied cryptography, privacy preservation, and poisoning attacks.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+<a href='https://scholar.google.com/citations?user=h3twdkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 2024
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- `ICDCS 2024` [SG-FCB: A Stackelberg Game-Driven Fair Committee-Based Blockchain Consensus Protocol](https://doi.org/10.1109/ICDCS60910.2024.00045), Ningbin Yang, Chunming Tang, Zehui Xiong, **Qian Chen**, Jiawen Kang, Debiao He, 2024 IEEE 44th International Conference on Distributed Computing Systems.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- `ICC 2024` [Enhancing Vehicular Edge Intelligence through Distributed Collaborative Generative AI Inference](https://doi.org/10.1109/ICC51166.2024.10622951), Gaochang Xie, Renchao Xie, Xinyuan Zhang, Jiangtian Nie, Qinqin Tang, **Qian Chen**, Dusit Niyato, ICC 2024-IEEE International Conference on Communications, 4560-4565.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- `WWW 2024` [PAGE: Equilibrate Personalization and Generalization in Federated Learning](https://doi.org/10.1145/3589334.3645513), **Qian Chen**, Zilong Wang, Jiaqi Hu, Haonan Yan, Jianying Zhou, Xiaodong Lin, Proceedings of the ACM on Web Conference 2024, 2955-2964.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `IOT-J` [QP-LDP for Better Global Model Performance in Federated Learning](https://doi.org/10.1109/JIOT.2024.3395310), **Qian Chen**, Zheng Chai, Zilong Wang, Haonan Yan, Xiaodong Lin, Jianying Zhou, IEEE Internet of Things Journal.
+
+- `TDSC 2024` [CODER: Protecting Privacy in Image Retrieval with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10468664), Haonan Yan, Xiaoguang Li, Wenjing Zhang, **Qian Chen**, Bin Wang, Hui Li, Xiaodong Lin, IEEE Transactions on Dependable and Secure Computing.
+
+- `NIPS 2024` [Recess Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks](http://papers.nips.cc/paper_files/paper/2023/hash/1b80fe066fdbceb3a2960117bac33917-Abstract-Conference.html), Haonan Yan, Wenjing Zhang, **Qian Chen**, Xiaoguang Li, Wenhai Sun, Hui Li, Xiaodong Lin, Advances in Neural Information Processing Systems 36.
+
+- [Poisoning Attack Detection Scheme Based on Generative Adversarial Network for Federated Learning](http://www.joca.cn/EN/abstract/abstract25970.shtml), **Qian Chen**, Zheng Chai, Zilong Wang, Jiawei Chen, Journal of Computer Applications 43 (12), 3790.
+
+## 2023
+
+- `TPDS 2023` [Dap-FL: Federated Learning Flourishes by Adaptive Tuning and Secure Aggregation](https://doi.org/10.1109/TPDS.2023.3267897), Qian Chen, Zilong Wang, Jiawei Chen, Haonan Yan, Xiaodong Lin, IEEE Transactions on Parallel and Distributed Systems 34 (6), 1923-1941.
+
+- `CS 2024` PPT: [A Privacy-preserving Global Model Training Protocol for Federated Learning in P2P Networks](https://doi.org/10.1016/j.cose.2022.102966), **Qian Chen**, Zilong Wang, Wenjing Zhang, Xiaodong Lin, Computers & Security 124, 102966.
+
+## 2022
+
+- `TrustCom 2022` [LLDP: A Layer-wise Local Differential Privacy in Federated Learning](https://doi.org/10.1109/TrustCom56396.2022.00091), **Qian Chen**, Hongbo Wang, Zilong Wang, Jiawei Chen, Haonan Yan, Xiaodong Lin, 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 631-637.
+
+- `ICIS 2022` [CFL: Cluster Federated Learning in Large-scale Peer-to-peer Networks](https://doi.org/10.1007/978-3-031-22390-7_27), **Qian Chen**, Zilong Wang, Yilin Zhou, Jiawei Chen, Dan Xiao, Xiaodong Lin, International Conference on Information Security, 464-472.
+
+- `MSN 2022` [QP-LDP for Better Global Model Performance in Federated Learning](https://doi.org/10.1109/JIOT.2024.3395310), **Qian Chen**, Zheng Chai, Zilong Wang, Jiawei Chen, Haonan Yan, Xiaodong Lin, 2022 18th International Conference on Mobility, Sensing and Networking, 422-426.
+
+- [Accountable and Verifiable Secure Aggregation for Federated Learning in IoT Networks](https://doi.org/10.1109/MNET.001.2200214), Xiaoyi Yang, Yanqi Zhao, **Qian Chen**, Yong Yu, Xiaojiang Du, Mohsen Guizani, IEEE Network 36 (5), 173-179.
+
+- `TIFS` [FedDual: Pair-wise Gossip Helps Federated Learning in Large Decentralized Networks](https://doi.org/10.1109/TIFS.2022.3222935), **Qian Chen**, Zilong Wang, Hongbo Wang, Xiaodong Lin, IEEE Transactions on Information Forensics and Security.
+
+- `ISIT 2022` [An Upper Bound of the Set Size of Perfect Sequences with Optimal Cross-correlation](https://doi.org/10.1109/ISIT50566.2022.9834893), Zilong Wang, **Qian Chen**, Guang Gong, 2022 IEEE International Symposium on Information Theory, 532-535.
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2023*,  2023 Tencent Scholarship of Xidian University（西安电子科技大学研究生社会奖学金，腾讯）
+- *2021*, State Scholarship Fund organized China Scholarship Council (CSC)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024*, received Ph.D in Cyberspace Security, Xidian University, China
+- *2016*, received B.S. in mathematics, Xi’an Jiaotong University, China
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2022-2024*, Singapore University of Technology and Design (SUTD)
+
+# 🌏 Service
+
+- Reviewer of TIFS (2021-), INFOCOM 2024, IoTJ (2021-), IJIS (2023-), INS (2024-), OJ-COMS (2022-), etc.
+- Volunteer of Asia CCS 2024.
