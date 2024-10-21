@@ -34,7 +34,7 @@ Dr. Qian Chen received the B.S. degree in mathematics from Xi'an Jiaotong Univer
 
 - `TDSC 2024` [CODER: Protecting Privacy in Image Retrieval with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10468664), Haonan Yan, Xiaoguang Li, Wenjing Zhang, **Qian Chen**, Bin Wang, Hui Li, Xiaodong Lin, IEEE Transactions on Dependable and Secure Computing.
 
-- `NIPS 2024` [Recess Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks](http://papers.nips.cc/paper_files/paper/2023/hash/1b80fe066fdbceb3a2960117bac33917-Abstract-Conference.html), Haonan Yan, Wenjing Zhang, **Qian Chen**, Xiaoguang Li, Wenhai Sun, Hui Li, Xiaodong Lin, Advances in Neural Information Processing Systems 36.
+- `NeurIPS 2024` [Recess Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks](http://papers.nips.cc/paper_files/paper/2023/hash/1b80fe066fdbceb3a2960117bac33917-Abstract-Conference.html), Haonan Yan, Wenjing Zhang, **Qian Chen**, Xiaoguang Li, Wenhai Sun, Hui Li, Xiaodong Lin, Advances in Neural Information Processing Systems 36.
 
 - [Poisoning Attack Detection Scheme Based on Generative Adversarial Network for Federated Learning](http://www.joca.cn/EN/abstract/abstract25970.shtml), **Qian Chen**, Zheng Chai, Zilong Wang, Jiawei Chen, Journal of Computer Applications 43 (12), 3790.
 
@@ -42,19 +42,19 @@ Dr. Qian Chen received the B.S. degree in mathematics from Xi'an Jiaotong Univer
 
 - `TPDS 2023` [Dap-FL: Federated Learning Flourishes by Adaptive Tuning and Secure Aggregation](https://doi.org/10.1109/TPDS.2023.3267897), Qian Chen, Zilong Wang, Jiawei Chen, Haonan Yan, Xiaodong Lin, IEEE Transactions on Parallel and Distributed Systems 34 (6), 1923-1941.
 
-- `CS 2024` PPT: [A Privacy-preserving Global Model Training Protocol for Federated Learning in P2P Networks](https://doi.org/10.1016/j.cose.2022.102966), **Qian Chen**, Zilong Wang, Wenjing Zhang, Xiaodong Lin, Computers & Security 124, 102966.
+- `Computers & Security 2023` PPT: [A Privacy-preserving Global Model Training Protocol for Federated Learning in P2P Networks](https://doi.org/10.1016/j.cose.2022.102966), **Qian Chen**, Zilong Wang, Wenjing Zhang, Xiaodong Lin, Computers & Security 124, 102966.
 
 ## 2022
 
 - `TrustCom 2022` [LLDP: A Layer-wise Local Differential Privacy in Federated Learning](https://doi.org/10.1109/TrustCom56396.2022.00091), **Qian Chen**, Hongbo Wang, Zilong Wang, Jiawei Chen, Haonan Yan, Xiaodong Lin, 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 631-637.
 
-- `ICIS 2022` [CFL: Cluster Federated Learning in Large-scale Peer-to-peer Networks](https://doi.org/10.1007/978-3-031-22390-7_27), **Qian Chen**, Zilong Wang, Yilin Zhou, Jiawei Chen, Dan Xiao, Xiaodong Lin, International Conference on Information Security, 464-472.
+- `ISC 2022` [CFL: Cluster Federated Learning in Large-scale Peer-to-peer Networks](https://doi.org/10.1007/978-3-031-22390-7_27), **Qian Chen**, Zilong Wang, Yilin Zhou, Jiawei Chen, Dan Xiao, Xiaodong Lin, International Conference on Information Security, 464-472.
 
 - `MSN 2022` [QP-LDP for Better Global Model Performance in Federated Learning](https://doi.org/10.1109/JIOT.2024.3395310), **Qian Chen**, Zheng Chai, Zilong Wang, Jiawei Chen, Haonan Yan, Xiaodong Lin, 2022 18th International Conference on Mobility, Sensing and Networking, 422-426.
 
 - [Accountable and Verifiable Secure Aggregation for Federated Learning in IoT Networks](https://doi.org/10.1109/MNET.001.2200214), Xiaoyi Yang, Yanqi Zhao, **Qian Chen**, Yong Yu, Xiaojiang Du, Mohsen Guizani, IEEE Network 36 (5), 173-179.
 
-- `TIFS` [FedDual: Pair-wise Gossip Helps Federated Learning in Large Decentralized Networks](https://doi.org/10.1109/TIFS.2022.3222935), **Qian Chen**, Zilong Wang, Hongbo Wang, Xiaodong Lin, IEEE Transactions on Information Forensics and Security.
+- `TIFS 2022` [FedDual: Pair-wise Gossip Helps Federated Learning in Large Decentralized Networks](https://doi.org/10.1109/TIFS.2022.3222935), **Qian Chen**, Zilong Wang, Hongbo Wang, Xiaodong Lin, IEEE Transactions on Information Forensics and Security.
 
 - `ISIT 2022` [An Upper Bound of the Set Size of Perfect Sequences with Optimal Cross-correlation](https://doi.org/10.1109/ISIT50566.2022.9834893), Zilong Wang, **Qian Chen**, Guang Gong, 2022 IEEE International Symposium on Information Theory, 532-535.
 
@@ -69,9 +69,9 @@ Dr. Qian Chen received the B.S. degree in mathematics from Xi'an Jiaotong Univer
 - *2024*, received Ph.D in Cyberspace Security, Xidian University, China
 - *2016*, received B.S. in mathematics, Xi’an Jiaotong University, China
 
-# 💻 Internships
+# 💻 Working Experience
 
-- *2022-2024*, Singapore University of Technology and Design (SUTD)
+- *2022-2024*, visiting research fellow at Singapore University of Technology and Design (SUTD)
 
 # 🌏 Service
 
