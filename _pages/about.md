@@ -22,6 +22,12 @@ Dr. Qian Chen received the B.S. degree in mathematics from Xi'an Jiaotong Univer
 
 # 📝 Publications 
 
+## 2025
+
+- `TSC 2025` [DeFedGCN: Privacy-Preserving Decentralized Federated GCN for Recommender System](https://ieeexplore.ieee.org/abstract/document/10858404/), **Qian Chen**, Zilong Wang, Mengqing Yan, Haonan Yan, Xiaodong Lin, Jianying Zhou, 2025 IEEE Transactions on Services Computing.
+
+- `TDSC 2025` [A Proactive Defense Against Model Poisoning Attacks in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10851419), Haonan Yan, Chengbo Zheng, **Qian Chen**, Xiaoguang Li, Bin Wang, Hui Li, Xiaodong Lin, 2025 IEEE Transactions on Dependable and Secure Computing.
+
 ## 2024
 
 - `ICDCS 2024` [SG-FCB: A Stackelberg Game-Driven Fair Committee-Based Blockchain Consensus Protocol](https://doi.org/10.1109/ICDCS60910.2024.00045), Ningbin Yang, Chunming Tang, Zehui Xiong, **Qian Chen**, Jiawen Kang, Debiao He, 2024 IEEE 44th International Conference on Distributed Computing Systems.
