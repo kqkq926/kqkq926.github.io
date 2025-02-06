@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Qian Chen received the B.S. degree in mathematics from Xi'an Jiaotong University, China, in 2016, and the Ph.D. degree in Cyberspace Security from Xidian University, China, in 2024. From 2022 to 2024, he was a Visiting Research Fellow with iTrust, Singapore University of Technology and Design, Singapore. His research interests are in the areas of federated learning, applied cryptography, privacy preservation, and poisoning attacks.
+Dr. Qian Chen received the B.S. degree in mathematics from Xi'an Jiaotong University, China, in 2016, and the Ph.D. degree in Cyberspace Security from Xidian University, China, in 2024. He is currently a Jingying Associate Professor with Xidian University, Xi’an, China. From 2022 to 2024, he was a Visiting Research Fellow with iTrust, Singapore University of Technology and Design, Singapore. His research interests are in the areas of federated learning, applied cryptography, privacy preservation, and poisoning attacks.
 <a href='https://scholar.google.com/citations?user=h3twdkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📝 Publications 
