@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qian Chen"
   avatar           : "images/profile.png"
-  bio              : "AI Security & <br>Digital Forensics"
+  bio              : "AI Security &amp;<br>Digital Forensics"
   location         : "China"
   employer         : "Xidian University"
   pubmed           : 
