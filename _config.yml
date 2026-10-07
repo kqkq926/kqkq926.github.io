@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qian Chen"
   avatar           : "images/profile.png"
-  bio              : "Federated Learning"
+  bio              : "AI Security & Digital Forensics"
   location         : "China"
   employer         : "Xidian University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=h3twdkgAAAAJ"
-  email            : "qchen_4@stu.xidian.edu.cn"
+  email            : "chenqian02@xidian.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
